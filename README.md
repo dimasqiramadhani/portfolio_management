@@ -20,7 +20,8 @@ Berikut adalah contoh tampilan aplikasi:
 
 ## Fitur
 
-- **CRUD (Create, Read, Update, Delete)** untuk kategori dan pemasok.
+- **CRUD (Create, Read, Update, Delete)**
+- Dapat digunakan untuk Menambahkan, Menghapus, dan Mengedit Data Proyek.
 - Tampilan yang responsif dan modern menggunakan Python dan Flask.
 - Menggunakan database PostgreSQL untuk penyimpanan data.
 
@@ -35,7 +36,7 @@ Teknologi yang digunakan:
 ## Struktur Direktori
 
 ```bash
-portfolio_app/
+project_app_management/
 │
 ├── app/
 │   ├── __init__.py
