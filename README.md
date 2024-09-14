@@ -1,4 +1,4 @@
-# Portfolio Proyek Manajemen
+# Proyek Manajemen
 
 Aplikasi Portfolio Proyek Manajemen adalah aplikasi web portfolio yang menerapkan sistem CRUD untuk mengelola data proyek. Aplikasi ini dibangun menggunakan Python dengan Flask sebagai antarmuka web dan PostgreSQL sebagai database.
 
