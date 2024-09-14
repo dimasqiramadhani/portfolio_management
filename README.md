@@ -1,6 +1,6 @@
-# Inventaris Manajemen
+# Portfolio Proyek Manajemen
 
-Aplikasi My Portfolio adalah aplikasi web portfolio pribadi yang menerapkan sistem CRUD untuk mengelola data proyek. Aplikasi ini dibangun menggunakan Python dengan Flask sebagai antarmuka web dan PostgreSQL sebagai database.
+Aplikasi Portfolio Proyek Manajemen adalah aplikasi web portfolio yang menerapkan sistem CRUD untuk mengelola data proyek. Aplikasi ini dibangun menggunakan Python dengan Flask sebagai antarmuka web dan PostgreSQL sebagai database.
 
 ## Review
 
